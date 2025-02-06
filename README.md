@@ -3,7 +3,9 @@
 I am a passionate M.Tech CS student at IIT Kharagpur, driven by a curiosity for technology and a love for writing. My journey involves delving into the world of computer science, exploring new ideas, and sharing my insights with the community.
 
 !['s Stats](https://github-readme-stats.vercel.app/api?username=&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcodog&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 ## 🚀 About Me
 
 - 🔭 I'm currently pursuing my Master's in Computer Science at IIT Kharagpur.
