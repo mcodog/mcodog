@@ -1,6 +1,7 @@
 <p align="center">
-  <a href="https://github.com/mcodog">
-   Mark Codog
+<a href="https://github.com/mcodog" style="font-weight: 400; color: white; text-decoration: none;">
+  Mark Codog
+</a>
 </p>
 
 <p align="center">
