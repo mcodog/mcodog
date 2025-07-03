@@ -13,12 +13,10 @@
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcodog&show_icons=true&theme=tokyonight" alt="Top Langs" />
   </a>
+    <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcodog&layout=donut&show_icons=true&theme=tokyonight" alt="Top Langs" />
+  </a>
 </p>
-
-
-
-
-
 
 
 
