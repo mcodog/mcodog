@@ -5,13 +5,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=07F7E6&width=435&lines=Full+Stack+Web+and+Software+Developer;Increment+and+Accumulate" alt="Typing SVG" /></a>
 </div>
 
-<div align="center">
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcodog&show_icons=true&theme=tokyonight)
-</div>
-</br ></br >
-<div align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcodog&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mcodog&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcodog&show_icons=true&theme=tokyonight" alt="Top Langs" />
+  </a>
+</p>
+
 
 
 
