@@ -6,6 +6,9 @@
 </p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcodog&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+</br >
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcodog&show_icons=true&theme=tokyonight)
 
 <!-- Social icons section -->
