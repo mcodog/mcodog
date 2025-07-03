@@ -1,9 +1,4 @@
-<p align="center" style="font-weight: 400; color: white; text-decoration: none;">
-<a href="https://github.com/mcodog" style="font-weight: 400; color: white; text-decoration: none;">
-  Mark Codog
-</a>
 
-</p>
 
 <p align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -27,5 +22,4 @@
   <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
 </p>
 
-<br/>
 
