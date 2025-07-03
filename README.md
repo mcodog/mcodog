@@ -1,17 +1,17 @@
 
 
-<p align="center">
+<div align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=07F7E6&width=435&lines=Full+Stack+Web+and+Software+Developer;Increment+and+Accumulate" alt="Typing SVG" /></a>
-</p>
+</div>
 
-<p align="center">
+<div align="center">
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mcodog&show_icons=true&theme=tokyonight)
-</p>
+</div>
 </br ></br >
-<p align="center">
+<div align="center">
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mcodog&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+</div>
 
 
 
