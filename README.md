@@ -6,7 +6,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-theta-ten-80.vercel.app/api?username=mcodog&count_private=true&show_icons=true&theme=tokyonight" alt="Anurag's GitHub stats" />
+  <img src="https://github-readme-stats-theta-ten-80.vercel.app/api?username=mcodog&count_private=true&show_icons=true&theme=tokyonight" alt="Mcodog's GitHub stats" />
 </p>
 
 <p align="center">
