@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=07F7E6&width=435&lines=Full+Stack+Web+and+Software+Developer;Increment+and+Accumulate" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=30&pause=1000&color=07F7E6&width=435&lines=Full+Stack+Web+and+Software+Developer;Increment+and+Accumulate&count_private=true" alt="Typing SVG" /></a>
 </div>
 
 <p align="center">
@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-theta-ten-80.vercel.app/api/top-langs/?username=mcodog&show_icons=true&theme=tokyonight" alt="Top Langs" />
+    <img src="https://github-readme-stats-theta-ten-80.vercel.app/api/top-langs/?username=mcodog&show_icons=true&theme=tokyonight&count_private=true" alt="Top Langs" />
   </a>
 </p>
 
