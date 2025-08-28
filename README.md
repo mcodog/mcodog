@@ -6,12 +6,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats-theta-ten-80.vercel.app/api?username=mcodog&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Mcodog's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mcodog&count_private=true&show_icons=true&theme=tokyonight&include_all_commits=true" alt="Mcodog's GitHub stats" />
 </p>
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats-theta-ten-80.vercel.app/api/top-langs/?username=mcodog&count_private=true&show_icons=true&theme=tokyonight" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcodog&count_private=true&show_icons=true&theme=tokyonight" alt="Top Langs" />
   </a>
 </p>
 
